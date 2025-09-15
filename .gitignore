@@ -1,0 +1,13 @@
+# Backend (Spring Boot)
+backend/target/
+backend/.idea/
+backend/.mvn/
+*.iml
+
+# Frontend (React/Vite)
+frontend/node_modules/
+frontend/dist/
+
+# Common
+.env
+.DS_Store
