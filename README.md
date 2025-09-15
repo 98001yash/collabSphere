@@ -12,10 +12,7 @@ collabSphere/
 └── frontend/ # React + Vite frontend (UI & Client)
 
 
----
-
 ## ✨ Features
-
 ### 🔐 Authentication
 - Role-based login (Student / Faculty / Admin)
 - JWT token authentication
@@ -64,7 +61,6 @@ cd backend
 
 
 Backend will start at http://localhost:8080
-
 3️⃣ Frontend Setup
 cd ../frontend
 npm install
@@ -72,10 +68,6 @@ npm run dev
 
 
 Frontend will start at http://localhost:5173
-
-
-
-
 License
 
 This project is licensed under the MIT License – see the LICENSE
@@ -83,6 +75,4 @@ This project is licensed under the MIT License – see the LICENSE
 ### ✅ Steps for you:
 1. Copy this whole markdown into your `README.md` at the root of your repo.  
 2. Replace placeholders like **database** and **deployment** with your actual stack if needed.  
-3. Push to GitHub.  
-
-Would you like me to add **badges** (like “React”, “Spring Boot”, “License”, “Deployed on …”) to make it look eve
+3. Push to GitHub.
